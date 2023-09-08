@@ -1,0 +1,86 @@
+#u1968-4-laon,#u1977-4-laon
+{
+	width: 195px;
+	min-height: 16px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: right;
+	font-size: 13px;
+	letter-spacing: 1.5px;
+	line-height: 16px;
+	color: #545554;
+	/*font-family: ubuntu, sans-serif;
+	font-weight: 500;*/
+	/*font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;*/
+	font-family: ubuntu-condensed, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	top: 8.5px;
+	/*padding: 0px 15px;*/
+}
+/*#menu-2.MuseMenuActive #u1956-4,#menu-3:hover #u1968-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 16px;
+	width: 195px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#menu-3:active #u1968-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 16px;
+	width: 195px;
+	margin: 0px -10000px 0px 0px;
+}*/
+
+#menu-3:hover #u1968-4-laon p,#menu-5:hover #u1977-4-laon p
+{
+	color: #F9D0A5;
+	visibility: inherit;
+}
+
+#menu-3:active #u1968-4-laon p,#menu-5:active #u1977-4-laon p
+{
+	color: #FAA03F;
+	visibility: inherit;
+}
+
+
+#u1977-4-2-laon
+{
+	width: 195px;
+	min-height: 16px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: right;
+	font-size: 13px;
+	letter-spacing: 1.5px;
+	line-height: 16px;
+	color: #545554;
+	/*font-family: ubuntu, sans-serif;
+	font-weight: 500;*/
+	/*font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;*/
+	font-family: ubuntu-condensed, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	top: 16px;
+	/*padding: 0px 15px;*/
+}
+#menu-6:hover #u1977-4-2-laon p
+{
+	color: #F9D0A5;
+	visibility: inherit;
+}
+
+#menu-6:active #u1977-4-2-laon p
+{
+	color: #FAA03F;
+	visibility: inherit;
+}

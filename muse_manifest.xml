@@ -1,0 +1,153 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428514041936">
+  <folder name="css">
+    <file name="site_global.css" crc="163382833"/>
+    <file name="master_main.css" crc="3782692208" ref="register:about:saint-gall-level-5:curriculum:saint-gall-level-4:index:laon:saint-gall-level-1:saint-gall-level-3:saint-gall-level-2:the-program:french:privacy:resources:saint-gall:contact:contact-admin:sign-in"/>
+    <file name="register.css" crc="96952469" ref="register"/>
+    <file name="iefonts_register.css" crc="4161256985" ref="register"/>
+    <file name="about.css" crc="3952777663" ref="about"/>
+    <file name="iefonts_about.css" crc="355008520" ref="about"/>
+    <file name="saint-gall-level-5.css" crc="268738303" ref="saint-gall-level-5"/>
+    <file name="iefonts_saint-gall-level-5.css" crc="1609010" ref="saint-gall-level-5"/>
+    <file name="curriculum.css" crc="451699354" ref="curriculum"/>
+    <file name="iefonts_curriculum.css" crc="160961347" ref="curriculum"/>
+    <file name="saint-gall-level-4.css" crc="268738303" ref="saint-gall-level-4"/>
+    <file name="iefonts_saint-gall-level-4.css" crc="1609010" ref="saint-gall-level-4"/>
+    <file name="index.css" crc="265751466" ref="index"/>
+    <file name="iefonts_index.css" crc="184384529" ref="index"/>
+    <file name="laon.css" crc="528358361" ref="laon"/>
+    <file name="iefonts_laon.css" crc="192135605" ref="laon"/>
+    <file name="saint-gall-level-1.css" crc="3972024795" ref="saint-gall-level-1"/>
+    <file name="iefonts_saint-gall-level-1.css" crc="4238624449" ref="saint-gall-level-1"/>
+    <file name="saint-gall-level-3.css" crc="268738303" ref="saint-gall-level-3"/>
+    <file name="iefonts_saint-gall-level-3.css" crc="1609010" ref="saint-gall-level-3"/>
+    <file name="saint-gall-level-2.css" crc="268738303" ref="saint-gall-level-2"/>
+    <file name="iefonts_saint-gall-level-2.css" crc="1609010" ref="saint-gall-level-2"/>
+    <file name="the-program.css" crc="518043142" ref="the-program"/>
+    <file name="iefonts_the-program.css" crc="389585273" ref="the-program"/>
+    <file name="french.css" crc="3992108744" ref="french"/>
+    <file name="iefonts_french.css" crc="4194577109" ref="french"/>
+    <file name="privacy.css" crc="201754989" ref="privacy"/>
+    <file name="iefonts_privacy.css" crc="47603996" ref="privacy"/>
+    <file name="resources.css" crc="17600324" ref="resources"/>
+    <file name="iefonts_resources.css" crc="3821441766" ref="resources"/>
+    <file name="saint-gall.css" crc="4033467194" ref="saint-gall"/>
+    <file name="iefonts_saint-gall.css" crc="4115860243" ref="saint-gall"/>
+    <file name="contact.css" crc="3812486103" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3869509742" ref="contact"/>
+    <file name="contact-admin.css" crc="4175816111" ref="contact-admin"/>
+    <file name="iefonts_contact-admin.css" crc="145228827" ref="contact-admin"/>
+    <file name="sign-in.css" crc="91846867" ref="sign-in"/>
+    <file name="iefonts_sign-in.css" crc="467021353" ref="sign-in"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>curriculum:phone>saint-gall:phone>saint-gall-level-1:phone>saint-gall-level-1-introduction:phone>saint-gall-level-2:phone>saint-gall-level-3:phone>saint-gall-level-4:phone>saint-gall-level-5:phone>laon:phone>resources:phone>about:phone>contact:phone>the-program:phone>sign-in:phone>register:index:contact:resources:curriculum:sign-in:register:saint-gall:the-program:saint-gall-level-1:saint-gall-level-2:laon:saint-gall-level-3:saint-gall-level-4:saint-gall-level-5:about:contact-admin:privacy:french"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>curriculum:phone>saint-gall:phone>saint-gall-level-1:phone>saint-gall-level-1-introduction:phone>saint-gall-level-2:phone>saint-gall-level-3:phone>saint-gall-level-4:phone>saint-gall-level-5:phone>laon:phone>resources:phone>about:phone>contact:phone>the-program:phone>sign-in:phone>register:index:contact:resources:curriculum:sign-in:register:saint-gall:the-program:saint-gall-level-1:saint-gall-level-2:laon:saint-gall-level-3:saint-gall-level-4:saint-gall-level-5:about:contact-admin:privacy:french"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>curriculum:phone>saint-gall:phone>saint-gall-level-1:phone>saint-gall-level-1-introduction:phone>saint-gall-level-2:phone>saint-gall-level-3:phone>saint-gall-level-4:phone>saint-gall-level-5:phone>laon:phone>resources:phone>about:phone>contact:phone>the-program:phone>sign-in:phone>register:index:contact:resources:curriculum:sign-in:register:saint-gall:the-program:saint-gall-level-1:saint-gall-level-2:laon:saint-gall-level-3:saint-gall-level-4:saint-gall-level-5:about:contact-admin:privacy:french"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>curriculum:phone>saint-gall:phone>saint-gall-level-1:phone>saint-gall-level-1-introduction:phone>saint-gall-level-2:phone>saint-gall-level-3:phone>saint-gall-level-4:phone>saint-gall-level-5:phone>laon:phone>resources:phone>about:phone>contact:phone>the-program:phone>sign-in:phone>register"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="325405309" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>index:phone>curriculum:phone>about:index:curriculum:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>curriculum:phone>saint-gall:phone>saint-gall-level-1:phone>saint-gall-level-1-introduction:phone>saint-gall-level-2:phone>saint-gall-level-3:phone>saint-gall-level-4:phone>saint-gall-level-5:phone>laon:phone>resources:phone>about:phone>contact:phone>the-program:phone>sign-in:phone>register:index:contact:resources:curriculum:sign-in:register:saint-gall:the-program:saint-gall-level-1:saint-gall-level-2:laon:saint-gall-level-3:saint-gall-level-4:saint-gall-level-5:about:contact-admin:privacy:french"/>
+    <file name="pie.js" crc="3827607177" ref="phone>curriculum:index:curriculum"/>
+    <file name="museredirect.js" crc="4117159434" ref="index:contact:resources:curriculum:sign-in:register:saint-gall:the-program:saint-gall-level-1:saint-gall-level-2:laon:saint-gall-level-3:saint-gall-level-4:saint-gall-level-5:about"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="421929563" ref="phone>index:index"/>
+    <file name="montpellier.jpg" crc="296325010" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="e-codices_csg-0339_033_max-cropped.jpg" crc="3992859728" ref="phone>index"/>
+    <file name="laon-header.jpg" crc="4086416476" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="stock_school.jpg" crc="163358202" ref="phone>index"/>
+    <file name="stock_book.jpg" crc="105979357" ref="phone>index"/>
+    <file name="stock_laptop.jpg" crc="4267182608" ref="phone>index"/>
+    <file name="more_bullet.gif" crc="192516585" ref="phone>index:index"/>
+    <file name="saint_gall.jpg" crc="4174949119" ref="phone>curriculum:curriculum"/>
+    <file name="school_laon.jpg" crc="3833740049" ref="phone>curriculum:curriculum"/>
+    <file name="portrait_ed.jpg" crc="3824670010" ref="phone>about"/>
+    <file name="portrait_angelos.jpg" crc="4207975743" ref="phone>about:about"/>
+    <file name="portrait_ethan.jpg" crc="129132014" ref="phone>about:about"/>
+    <file name="quincy_pic.jpg" crc="135306762" ref="phone>about:about"/>
+    <file name="bg.gif" crc="204134318" ref="index:contact:resources:curriculum:sign-in:register:saint-gall:the-program:saint-gall-level-1:saint-gall-level-2:laon:saint-gall-level-3:saint-gall-level-4:saint-gall-level-5:about:contact-admin:privacy:french"/>
+    <file name="montpellier-crop-u601.jpg" crc="236090233" ref="index"/>
+    <file name="e-codices_csg-0339_033_max-cropped2.jpg" crc="4046432574" ref="index"/>
+    <file name="laon-header-crop-u3607.jpg" crc="52963419" ref="index"/>
+    <file name="the program001.jpg" crc="37160717" ref="index"/>
+    <file name="the curriculum002.jpg" crc="419640210" ref="index"/>
+    <file name="stock_laptop-u983-fr.jpg" crc="3844388491" ref="index"/>
+    <file name="portrait_ed-u3213-fr.jpg" crc="4149359349" ref="about"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_main.css" crc="3780458063" ref="phone>saint-gall-level-3:phone>saint-gall-level-4:phone>saint-gall-level-5:phone>register:phone>sign-in:phone>saint-gall-level-1-introduction:phone>saint-gall-level-1:phone>saint-gall:phone>the-program:phone>contact:phone>curriculum:phone>about:phone>resources:phone>index:phone>saint-gall-level-2:phone>laon"/>
+      <file name="saint-gall-level-3.css" crc="4261719512" ref="phone>saint-gall-level-3"/>
+      <file name="iefonts_saint-gall-level-3.css" crc="109248340" ref="phone>saint-gall-level-3"/>
+      <file name="saint-gall-level-4.css" crc="4261719512" ref="phone>saint-gall-level-4"/>
+      <file name="iefonts_saint-gall-level-4.css" crc="109248340" ref="phone>saint-gall-level-4"/>
+      <file name="saint-gall-level-5.css" crc="4261719512" ref="phone>saint-gall-level-5"/>
+      <file name="iefonts_saint-gall-level-5.css" crc="109248340" ref="phone>saint-gall-level-5"/>
+      <file name="register.css" crc="4284560936" ref="phone>register"/>
+      <file name="iefonts_register.css" crc="109248340" ref="phone>register"/>
+      <file name="sign-in.css" crc="4284560936" ref="phone>sign-in"/>
+      <file name="iefonts_sign-in.css" crc="109248340" ref="phone>sign-in"/>
+      <file name="saint-gall-level-1-introduction.css" crc="4261719512" ref="phone>saint-gall-level-1-introduction"/>
+      <file name="iefonts_saint-gall-level-1-introduction.css" crc="109248340" ref="phone>saint-gall-level-1-introduction"/>
+      <file name="saint-gall-level-1.css" crc="3784211436" ref="phone>saint-gall-level-1"/>
+      <file name="iefonts_saint-gall-level-1.css" crc="132157569" ref="phone>saint-gall-level-1"/>
+      <file name="saint-gall.css" crc="231550544" ref="phone>saint-gall"/>
+      <file name="iefonts_saint-gall.css" crc="206487811" ref="phone>saint-gall"/>
+      <file name="the-program.css" crc="4261719512" ref="phone>the-program"/>
+      <file name="iefonts_the-program.css" crc="109248340" ref="phone>the-program"/>
+      <file name="contact.css" crc="122078735" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="3974487584" ref="phone>contact"/>
+      <file name="curriculum.css" crc="3886133230" ref="phone>curriculum"/>
+      <file name="iefonts_curriculum.css" crc="294708972" ref="phone>curriculum"/>
+      <file name="about.css" crc="4083825613" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="52210890" ref="phone>about"/>
+      <file name="resources.css" crc="4261719512" ref="phone>resources"/>
+      <file name="iefonts_resources.css" crc="109248340" ref="phone>resources"/>
+      <file name="index.css" crc="4028105654" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="154453626" ref="phone>index"/>
+      <file name="saint-gall-level-2.css" crc="4261719512" ref="phone>saint-gall-level-2"/>
+      <file name="iefonts_saint-gall-level-2.css" crc="109248340" ref="phone>saint-gall-level-2"/>
+      <file name="laon.css" crc="4261719512" ref="phone>laon"/>
+      <file name="iefonts_laon.css" crc="109248340" ref="phone>laon"/>
+    </folder>
+    <file name="index.html" crc="49057239" mt="1428502006245" redirect="true"/>
+    <file name="curriculum.html" crc="4233454893" mt="1428502004764" redirect="true"/>
+    <file name="saint-gall.html" crc="4187903789" mt="1427131177684" redirect="true"/>
+    <file name="saint-gall-level-1.html" crc="505222492" mt="1427131177684" redirect="true"/>
+    <file name="saint-gall-level-1-introduction.html" crc="3975249968" mt="1427131177684" redirect="true"/>
+    <file name="saint-gall-level-2.html" crc="4090203169" mt="1427131177684" redirect="true"/>
+    <file name="saint-gall-level-3.html" crc="313053645" mt="1427131177684" redirect="true"/>
+    <file name="saint-gall-level-4.html" crc="39996619" mt="1427131177684" redirect="true"/>
+    <file name="saint-gall-level-5.html" crc="3808497959" mt="1427131177684" redirect="true"/>
+    <file name="laon.html" crc="4020017974" mt="1427131177684" redirect="true"/>
+    <file name="resources.html" crc="4087843203" mt="1427131177684" redirect="true"/>
+    <file name="about.html" crc="3795590941" mt="1428502005506" redirect="true"/>
+    <file name="contact.html" crc="4147029349" mt="1427131177684" redirect="true"/>
+    <file name="the-program.html" crc="3841191487" mt="1427131177684" redirect="true"/>
+    <file name="sign-in.html" crc="89235439" mt="1427131177684" redirect="true"/>
+    <file name="register.html" crc="252588522" mt="1427131177684" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4076845655" mt="1428513875308" redirect="true"/>
+  <file name="contact.html" crc="4017307749" mt="1428501571002" redirect="true"/>
+  <file name="resources.html" crc="4134715434" mt="1428501571002" redirect="true"/>
+  <file name="curriculum.html" crc="3941240654" mt="1428502004762" redirect="true"/>
+  <file name="sign-in.html" crc="374782529" mt="1428501571002" redirect="true"/>
+  <file name="register.html" crc="4113382922" mt="1428501571002" redirect="true"/>
+  <file name="saint-gall.html" crc="3872073594" mt="1428501571002" redirect="true"/>
+  <file name="the-program.html" crc="4060091462" mt="1428501571002" redirect="true"/>
+  <file name="saint-gall-level-1.html" crc="365800924" mt="1428501944919" redirect="true"/>
+  <file name="saint-gall-level-2.html" crc="276276860" mt="1428501571002" redirect="true"/>
+  <file name="laon.html" crc="4035893486" mt="1428501571002" redirect="true"/>
+  <file name="saint-gall-level-3.html" crc="4059814648" mt="1428501571002" redirect="true"/>
+  <file name="saint-gall-level-4.html" crc="3820790246" mt="1428501571002" redirect="true"/>
+  <file name="saint-gall-level-5.html" crc="36756834" mt="1428501571002" redirect="true"/>
+  <file name="about.html" crc="3764616867" mt="1428502005508" redirect="true"/>
+  <file name="contact-admin.html" crc="273603818" mt="1428501571002" redirect="true"/>
+  <file name="privacy.html" crc="293103155" mt="1428501571002" redirect="true"/>
+  <file name="french.html" crc="4141877174" mt="1428501571002" redirect="true"/>
+</manifest>

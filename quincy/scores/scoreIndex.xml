@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<scores>
+    <score id="0" fileName="gall_1_review_1.png" school="StGall" level="1" type="review" solution="14-11-6-17-11-17-15-10" />
+    <score id="1" fileName="gall_1_review_2.png" school="StGall" level="1" type="review" solution="2-11-3-2-17-11-10" />
+	<score id="2" fileName="gall_1_review_3.png" school="StGall" level="1" type="review" solution="2-3-10-3-15-11-15-6" />
+	<score id="3" fileName="gall_1_review_4.png" school="StGall" level="1" type="review" solution="18-3-14-3-15-12-11" />
+	<score id="4" fileName="gall_1_test_1.png" school="StGall" level="1" type="test" solution="2-11-23-6-10-2-22-3" />
+	<score id="5" fileName="gall_1_test_2.png" school="StGall" level="1" type="test" solution="3-2-11-6-10-6-12" />
+	<score id="6" fileName="gall_1_test_3.png" school="StGall" level="1" type="test" solution="10-13-3-3-7-2-13" />
+	<score id="7" fileName="gall_1_test_4.png" school="StGall" level="1" type="test" solution="10-12-10-11-6-12-13" />
+	
+	<score id="8" fileName="gall_2_review_1.png" school="StGall" level="2" type="review" solution="49-62-32-27-32" />
+    <score id="9" fileName="gall_2_review_2.png" school="StGall" level="2" type="review" solution="27-26-34-51-26-32" />
+	<score id="10" fileName="gall_2_review_3.png" school="StGall" level="2" type="review" solution="30-49-26-72-26-26-72" />
+	<score id="11" fileName="gall_2_review_4.png" school="StGall" level="2" type="review" solution="26-29-34-52-32" />
+	<score id="12" fileName="gall_2_test_1.png" school="StGall" level="2" type="test" solution="27-32-32-49-26-27" />
+	<score id="13" fileName="gall_2_test_2.png" school="StGall" level="2" type="test" solution="27-32-32-27-34-32-32" />
+	<score id="14" fileName="gall_2_test_3.png" school="StGall" level="2" type="test" solution="25-25-30-26-49-49-32" />
+	<score id="15" fileName="gall_2_test_4.png" school="StGall" level="2" type="test" solution="26-26-85-26-32-27-32" />
+	
+	<score id="16" fileName="gall_3_review_1.png" school="StGall" level="3" type="review" solution="104-90-98-97" />
+    <score id="17" fileName="gall_3_review_2.png" school="StGall" level="3" type="review" solution="100-100-97-97-91" />
+	<score id="18" fileName="gall_3_review_3.png" school="StGall" level="3" type="review" solution="100-91-96-90" />
+	<score id="19" fileName="gall_3_review_4.png" school="StGall" level="3" type="review" solution="102-96-99-93" />
+	<score id="20" fileName="gall_3_test_1.png" school="StGall" level="3" type="test" solution="95-97-103-90" />
+	<score id="21" fileName="gall_3_test_2.png" school="StGall" level="3" type="test" solution="96-99-102-105-93" />
+	<score id="22" fileName="gall_3_test_3.png" school="StGall" level="3" type="test" solution="105-93-93-102" />
+	<score id="23" fileName="gall_3_test_4.png" school="StGall" level="3" type="test" solution="104-100-92-91-99-92" />
+	
+	<score id="24" fileName="gall_5_review_1.png" school="StGall" level="5" type="review" solution="14-11-6-17-11-17-15-10" />
+    <score id="25" fileName="gall_5_review_2.png" school="StGall" level="5" type="review" solution="2-11-3-2-17-11-10" />
+	<score id="26" fileName="gall_5_review_3.png" school="StGall" level="5" type="review" solution="2-11-10-3-15-11-15-6" />
+	<score id="27" fileName="gall_5_review_4.png" school="StGall" level="5" type="review" solution="18-3-14-3-15-12-11" />
+	<score id="28" fileName="gall_5_test_1.png" school="StGall" level="5" type="test" solution="2-11-23-6-10-2-22-3" />
+	<score id="29" fileName="gall_5_test_2.png" school="StGall" level="5" type="test" solution="3-2-11-6-10-6-12" />
+	<score id="30" fileName="gall_5_test_3.png" school="StGall" level="5" type="test" solution="10-13-3-3-7-2-13" />
+	<score id="31" fileName="gall_5_test_4.png" school="StGall" level="5" type="test" solution="10-12-10-11-6-12-13" />
+	<!--Laon:-->
+	<score id="32" fileName="gall_1_review_1.png" school="Laon" level="1" type="review" solution="588-585-581-604-585-604-590-584" />
+    <score id="33" fileName="gall_1_review_2.png" school="Laon" level="1" type="review" solution="577-585-578-578-604-585-584" />
+	<score id="34" fileName="gall_1_review_3.png" school="Laon" level="1" type="review" solution="578-578-584-578-590-585-590-581" />
+	<score id="35" fileName="gall_1_review_4.png" school="Laon" level="1" type="review" solution="601-578-588-578-590-586-585" />
+	<score id="36" fileName="gall_1_test_1.png" school="Laon" level="1" type="test" solution="577-585-598-581-584-578-596" />
+	<score id="37" fileName="gall_1_test_2.png" school="Laon" level="1" type="test" solution="578-578-585-581-584-581-586" />
+	<score id="38" fileName="gall_1_test_3.png" school="Laon" level="1" type="test" solution="584-587-578-578-582-578-587" />
+	<score id="39" fileName="gall_1_test_4.png" school="Laon" level="1" type="test" solution="584-586-584-585-581-586-587" />
+	
+	<score id="40" fileName="gall_2_review_1.png" school="Laon" level="2" type="review" solution="624-636-618-614-618" />
+    <score id="41" fileName="laon_2_review_2.png" school="Laon" level="2" type="review" solution="614-613-625-613-618" />
+	<score id="42" fileName="laon_2_review_3.png" school="Laon" level="2" type="review" solution="616-624-640-610-610-613" />
+	<score id="43" fileName="laon_2_review_4.png" school="Laon" level="2" type="review" solution="610-615-618-625-618" />
+	<score id="44" fileName="gall_2_test_1.png" school="Laon" level="2" type="test" solution="614-618-618-624-610-614" />
+	<score id="45" fileName="laon_2_test_2.png" school="Laon" level="2" type="test" solution="614-618-618-614-618-618-618" />
+	<score id="46" fileName="laon_2_test_3.png" school="Laon" level="2" type="test" solution="640-610-616-613-624-624-618" />
+	<score id="47" fileName="gall_2_test_4.png" school="Laon" level="2" type="test" solution="610-610-652-610-618-614-618" />
+	
+	<score id="48" fileName="laon_3_review_1.png" school="Laon" level="3" type="review" solution="653-654-657" />
+    <score id="49" fileName="laon_3_review_2.png" school="Laon" level="3" type="review" solution="653-656" />
+	<score id="50" fileName="laon_3_review_3.png" school="Laon" level="3" type="review" solution="653-655-657" />
+	<score id="51" fileName="laon_3_review_4.png" school="Laon" level="3" type="review" solution="656-657-655" />
+	<score id="52" fileName="laon_3_test_1.png" school="Laon" level="3" type="test" solution="656-653-654" />
+	<score id="53" fileName="laon_3_test_2.png" school="Laon" level="3" type="test" solution="653-655-654" />
+	<score id="54" fileName="laon_3_test_3.png" school="Laon" level="3" type="test" solution="653-656-654" />
+	<score id="55" fileName="laon_3_test_4.png" school="Laon" level="3" type="test" solution="656-653-654" />
+	
+	<score id="56" fileName="laon_5_review_1.png" school="Laon" level="5" type="review" solution="14-11-6-17-11-17-15-10" />
+    <score id="57" fileName="laon_5_review_2.png" school="Laon" level="5" type="review" solution="2-11-3-2-17-11-10" />
+	<score id="58" fileName="laon_5_review_3.png" school="Laon" level="5" type="review" solution="2-11-10-3-15-11-15-6" />
+	<score id="59" fileName="laon_5_review_4.png" school="Laon" level="5" type="review" solution="18-3-14-3-15-12-11" />
+	<score id="60" fileName="laon_5_test_1.png" school="Laon" level="5" type="test" solution="2-11-23-6-10-2-22-3" />
+	<score id="61" fileName="laon_5_test_2.png" school="Laon" level="5" type="test" solution="3-2-11-6-10-6-12" />
+	<score id="62" fileName="laon_5_test_3.png" school="Laon" level="5" type="test" solution="10-13-3-3-7-2-13" />
+	<score id="63" fileName="laon_5_test_4.png" school="Laon" level="5" type="test" solution="10-12-10-11-6-12-13" />
+</scores>

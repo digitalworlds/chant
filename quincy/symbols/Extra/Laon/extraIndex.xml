@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<symbols>
+    <!-- Laon level 3 group 1 -->
+    <symbol id="653" choice="A-B-C-D" solution="A-B"/>
+    <symbol id="654" choice="A-B-C" solution="A"/>
+	<symbol id="655" choice="A-B-C" solution="A"/>
+    <symbol id="656" choice="A-B-C" solution="A"/>
+	<!-- Laon level 3 group 2 -->
+	<symbol id="657" choice="A-B-C" solution="A"/>
+
+</symbols>

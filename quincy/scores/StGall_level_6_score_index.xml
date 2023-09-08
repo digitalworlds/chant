@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<scores>
+    <score id="0" fileName="gall_6_lesson_1.png" school="StGall" level="6" type="lesson" solution="2-15-15" symbolPos="295-365-470"/>
+    <score id="1" fileName="gall_6_lesson_2.png" school="StGall" level="6" type="lesson" solution="10-15-2-2-2" symbolPos="290-383-451-488-526"/>
+	<score id="2" fileName="gall_6_lesson_3.png" school="StGall" level="6" type="lesson" solution="15-10-2" symbolPos="345-430-488"/>
+    <score id="3" fileName="gall_6_lesson_4.png" school="StGall" level="6" type="lesson" solution="11-10-10" symbolPos="334-406-476"/>
+	<score id="4" fileName="gall_6_lesson_5.png" school="StGall" level="6" type="lesson" solution="3-15-17-11-2" symbolPos="221-292-419-528-578"/>
+    <score id="5" fileName="gall_6_lesson_6.png" school="StGall" level="6" type="lesson" solution="11-12" symbolPos="345-434"/>
+	<score id="6" fileName="gall_6_lesson_7.png" school="StGall" level="6" type="lesson" solution="22" symbolPos="402"/>
+    <score id="7" fileName="gall_6_lesson_8.png" school="StGall" level="6" type="lesson" solution="21-3" symbolPos="383-471"/>
+	<score id="8" fileName="gall_6_lesson_9.png" school="StGall" level="6" type="lesson" solution="11-13" symbolPos="350-443"/>
+    <score id="9" fileName="gall_6_lesson_10.png" school="StGall" level="6" type="lesson" solution="22-12" symbolPos="347-484"/>
+	<score id="10" fileName="gall_6_lesson_11.png" school="StGall" level="6" type="lesson" solution="15-15-2" symbolPos="341-450-518"/>
+    <score id="11" fileName="gall_6_lesson_12.png" school="StGall" level="6" type="lesson" solution="3-3-3-16-10-2" symbolPos="253-286-322-409-516-570"/>
+	<score id="12" fileName="gall_6_lesson_13.png" school="StGall" level="6" type="lesson" solution="53-3-15" symbolPos="341-413-481"/>
+    <score id="13" fileName="gall_6_lesson_14.png" school="StGall" level="6" type="lesson" solution="3-151-3-15-3-0" symbolPos="270-315-365-436-508-542"/>
+	<score id="14" fileName="gall_6_lesson_15.png" school="StGall" level="6" type="lesson" solution="11-97" symbolPos="359-453"/>
+    <score id="15" fileName="gall_6_lesson_16.png" school="StGall" level="6" type="lesson" solution="3-2-10-15-11-2" symbolPos="243-282-332-424-511-564"/>
+	
+	<score id="16" fileName="gall_6_review_1.png" school="StGall" level="6" type="review" solution="89-10-15-2" symbolPos="300-397-488-558"/>
+	<score id="17" fileName="gall_6_review_2.png" school="StGall" level="6" type="review" solution="82-15" symbolPos="350-466"/>
+    <score id="18" fileName="gall_6_review_3.png" school="StGall" level="6" type="review" solution="11-12-5-2" symbolPos="293-374-469-524"/>
+	<score id="19" fileName="gall_6_review_4.png" school="StGall" level="6" type="review" solution="10-12-11-12-158" symbolPos="208-301-394-483-586"/>
+	
+    <score id="20" fileName="gall_6_test_1.png" school="StGall" level="6" type="test" solution="2-17-3" symbolPos="311-397-489"/>
+	<score id="21" fileName="gall_6_test_2.png" school="StGall" level="6" type="test" solution="10-3-10-17" symbolPos="283-342-391-495"/>
+    <score id="22" fileName="gall_6_test_3.png" school="StGall" level="6" type="test" solution="2-12-190-3" symbolPos="260-330-460-548"/>
+	<score id="23" fileName="gall_6_test_4.png" school="StGall" level="6" type="test" solution="3-15-2-3-3-3-2" symbolPos="261-334-406-444-477-516-545"/>
+	<score id="24" fileName="gall_6_test_5.png" school="StGall" level="6" type="test" solution="2-3-10-10-15" symbolPos="251-288-338-408-502"/>
+	<score id="25" fileName="gall_6_test_6.png" school="StGall" level="6" type="test" solution="2-17-12-3" symbolPos="264-333-479-550"/>
+    <score id="26" fileName="gall_6_test_7.png" school="StGall" level="6" type="test" solution="2-3-3-21-3" symbolPos="278-316-350-442-531"/>
+	<score id="27" fileName="gall_6_test_8.png" school="StGall" level="6" type="test" solution="30-15" symbolPos="352-460"/>
+	<score id="28" fileName="gall_6_test_9.png" school="StGall" level="6" type="test" solution="29-10-191" symbolPos="297-367-474"/>
+	<score id="29" fileName="gall_6_test_10.png" school="StGall" level="6" type="test" solution="158-29-12-31" symbolPos="260-352-435-550"/>
+    <score id="30" fileName="gall_6_test_11.png" school="StGall" level="6" type="test" solution="3-3-2-71-51" symbolPos="243-282-317-403-530"/>
+	<score id="31" fileName="gall_6_test_12.png" school="StGall" level="6" type="test" solution="21-15-17-3-158" symbolPos="217-344-465-555-627"/>
+	
+</scores>

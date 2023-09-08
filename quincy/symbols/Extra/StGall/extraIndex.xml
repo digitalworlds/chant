@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<symbols>
+    <!-- Gall level 3 group 1 -->
+    <symbol id="90" choice="A-B-C-D" solution="A-B"/>
+    <symbol id="91" choice="A-B-C" solution="A-B"/>
+	<symbol id="92" choice="A-B-C-D" solution="A"/>
+    <symbol id="93" choice="A-B-C" solution="A"/>
+	<symbol id="94" choice="A-B-C" solution="A"/>
+    <symbol id="95" choice="A-B-C-D" solution="A"/>
+	<symbol id="96" choice="A-B-C" solution="A"/>
+    <symbol id="97" choice="A-B-C" solution="A"/>
+	<!-- Gall level 3 group 2 -->
+	<symbol id="98" choice="A-B-C-D" solution="A-B"/>
+    <symbol id="99" choice="A-B-C-D" solution="A-B"/>
+	<symbol id="100" choice="A-B-C" solution="A"/>
+    <symbol id="101" choice="A-B-C" solution="A"/>
+	<symbol id="102" choice="A-B-C" solution="A"/>
+    <symbol id="103" choice="A-B-C-D" solution="A-B"/>
+	<symbol id="104" choice="A-B-C-D" solution="A-B"/>
+    <symbol id="105" choice="A-B-C-D" solution="A"/>
+
+</symbols>
